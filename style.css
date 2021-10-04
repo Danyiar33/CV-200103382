@@ -1,0 +1,145 @@
+body {
+  color: black;
+  padding: 0 30px;
+  font-size: 60px;
+  line-height: 20px;
+  font-family: "Arial", sans-serif;
+  background-color: LightCyan;;
+  
+}
+ul {list-style: none;}
+
+.h1 {
+  font-size: 15px;
+  
+  position: relative;
+  left:250px;
+  
+  
+  
+}
+.h2 {
+
+  height:150px;
+  
+  font-size: 15px;
+  position:relative;
+  bottom: -70px;
+  background-color:LightYellow;
+  border-radius: 30px;
+  
+  
+  
+  
+  
+}
+.h3 {
+  font-size: 15px;
+  position:relative;
+  bottom: -100px;
+  background-color:MediumSeaGreen;
+  border-radius: 30px;
+  display:flex;
+  
+  
+  
+  
+  
+}
+.h4 {
+  font-size: 15px;
+  position:relative;
+  bottom: -150px;
+  display:flex;
+  background-color: MediumPurple;
+  border-radius: 30px;
+
+  
+  
+  
+  
+  
+}
+.c {
+  
+  font-size: 15px;
+  
+}
+.c1 {
+  font-size: 15px;
+  position:relative;
+  bottom: -45px;
+  left: 50px;
+  
+}
+.c2 {
+  font-size: 15px;
+  position:relative;
+  bottom: -45px;
+  left: 100px;
+  
+}
+.b {
+  font-size: 15px;
+  
+  position:relative;
+  
+}
+
+.text {
+  font-size: 15px;
+  font-size:30px;
+  margin-top: -150px;
+}
+
+
+
+.partnership {
+  font-style: italic;
+  color:gray;
+}
+.avatar {
+  border-radius: 30px;
+  position: relative;
+  left:10px;
+  
+  
+}
+.partnership1 {
+  
+  color:DarkSlateGrey;
+}
+.h5 {
+  font-size: 15px;
+  position: relative;
+  bottom:-200px;
+  left:500px;
+
+}
+.h6 {
+  font-size: 15px;
+  position: relative;
+  bottom:-200px;
+  left:500px;
+  display:flex;
+
+}
+.left {
+  font-size: 15px;
+  position: relative;
+  left:-200px;
+  
+}
+.left1 {
+  font-size: 15px;
+  position: relative;
+  left:200px;
+  
+}
+
+
+
+
+
+
+  
